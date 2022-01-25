@@ -1,0 +1,16 @@
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\obj\Debug\net5.0\Conversão de segundos para Horas completas.csproj.AssemblyReference.cache
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\obj\Debug\net5.0\Conversão de segundos para Horas completas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\obj\Debug\net5.0\Conversão de segundos para Horas completas.AssemblyInfoInputs.cache
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\obj\Debug\net5.0\Conversão de segundos para Horas completas.AssemblyInfo.cs
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\obj\Debug\net5.0\Conversão de segundos para Horas completas.csproj.CoreCompileInputs.cache
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\bin\Debug\net5.0\Conversão de segundos para Horas completas.exe
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\bin\Debug\net5.0\Conversão de segundos para Horas completas.deps.json
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\bin\Debug\net5.0\Conversão de segundos para Horas completas.runtimeconfig.json
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\bin\Debug\net5.0\Conversão de segundos para Horas completas.runtimeconfig.dev.json
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\bin\Debug\net5.0\Conversão de segundos para Horas completas.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\bin\Debug\net5.0\ref\Conversão de segundos para Horas completas.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\bin\Debug\net5.0\Conversão de segundos para Horas completas.pdb
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\obj\Debug\net5.0\Conversão de segundos para Horas completas.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\obj\Debug\net5.0\ref\Conversão de segundos para Horas completas.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\obj\Debug\net5.0\Conversão de segundos para Horas completas.pdb
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Conversão de segundos para Horas completas\obj\Debug\net5.0\Conversão de segundos para Horas completas.genruntimeconfig.cache

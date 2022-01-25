@@ -1,0 +1,16 @@
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\bin\Debug\net5.0\Multiplos.exe
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\bin\Debug\net5.0\Multiplos.deps.json
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\bin\Debug\net5.0\Multiplos.runtimeconfig.json
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\bin\Debug\net5.0\Multiplos.runtimeconfig.dev.json
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\bin\Debug\net5.0\Multiplos.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\bin\Debug\net5.0\ref\Multiplos.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\bin\Debug\net5.0\Multiplos.pdb
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\obj\Debug\net5.0\Multiplos.csproj.AssemblyReference.cache
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\obj\Debug\net5.0\Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\obj\Debug\net5.0\Multiplos.AssemblyInfoInputs.cache
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\obj\Debug\net5.0\Multiplos.AssemblyInfo.cs
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\obj\Debug\net5.0\Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\obj\Debug\net5.0\Multiplos.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\obj\Debug\net5.0\ref\Multiplos.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\obj\Debug\net5.0\Multiplos.pdb
+C:\Users\luizr\OneDrive\Área de Trabalho\Desafios DIO C# intermediários\Multiplos\obj\Debug\net5.0\Multiplos.genruntimeconfig.cache
